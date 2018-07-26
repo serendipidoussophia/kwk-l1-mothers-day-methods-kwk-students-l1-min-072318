@@ -1,3 +1,3 @@
-def mothers_day(name="Mom")
+def holiday_greeting(name="Mom")
   puts "Happy Mother's Day, #{name}!"
 end
